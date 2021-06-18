@@ -1,0 +1,40 @@
+.profile-img-nav {
+    width: 2.2rem;
+    height: 2.2rem;
+}
+.profile-desc {
+    margin-bottom: 0;
+}
+.profile-pos {
+    color: red;
+}
+
+.product-highlight {
+    color: #332a7c;
+}
+.product-danger {
+    color: red;
+}
+.product-price {
+    padding: 10px;
+}
+.product-price-container {
+    background-color: #f6f6fc;
+}
+
+.btn-exchange {
+    background-color: #332a7c;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.specification .title {
+    margin: 30px 0 20px 0;
+    padding: 10px;
+    background-color: #f6f6fc;
+    color: #332a7c;
+}
+.spec-items-title {
+    color: #332a7c;
+    font-weight: 600;
+}
